@@ -1,0 +1,14 @@
+<div class="project">
+  <a href="<%= url %>">
+    <img src="<%= image %>"/>
+  </a>
+
+  <h1><%= name %></h1>
+  <h2><%= description %></h2>
+
+  <ul class="crew">
+    <% crew.each do |member| %>
+      <%= render_crew member %>
+    <% end %>
+  </ul>
+</div>
