@@ -2,7 +2,7 @@ camadas:
   url: http://camadas.novascartografias.org
   image: img/projects/camadas.jpg
   name: Camadas - Novas Cartografias
-  description: Um mapa onde o usuário pode relacionar índices sobre a cidade do Rio de Janeiro em parceria com o <a href="http://www.campoaud.com.br/">CAMPO aud</a>
+  description: Um mapa feito em parceria com o <a href="http://www.campoaud.com.br/">CAMPO aud</a> onde o usuário pode relacionar índices sobre a cidade do Rio de Janeiro
   crew:
     - pedromenezes
     - thiagogarcia
