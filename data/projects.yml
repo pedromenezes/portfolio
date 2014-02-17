@@ -6,3 +6,12 @@ camadas:
   crew:
     - pedromenezes
     - thiagogarcia
+labquimica:
+  url: https://www.facebook.com/groups/388101581213705/
+  image: img/projects/labquimica.png
+  name: Laboratório de Química com Sifteos
+  description: Um laboratório virtual de química usando <a href="http://https://www.sifteo.com/home">sifteos</a>.
+  crew:
+    - thiagogarcia
+    - felipedomingues
+    - niltonlessa
