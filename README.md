@@ -6,7 +6,6 @@
 # Como rodar o projeto:
 
 * `bundle install`
-* `touch .env`
 * `echo "RACK_ENV=development" > .env`
 * `foreman start`
 
