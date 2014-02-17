@@ -18,6 +18,5 @@
  - Metapix (Bernardo Fontes, Eduardo Carvalho, Felipe Cruz, Henrique Bastos, Lula Rocha, Thiago Garcia, Vinicius Braga)
  - ModelMommy (Argentino Mota, Bernardo Fontes, Henrique Bastos, Italo Maia)
  - Motocontínuo (Thiago Garcia)
- - Novas Cartografias (Gabriel Duarte, Julio Parente, Pedro Menezes, Thiago Garcia)
  - PróximaBarca (Pedro Menezes)
  - Welcome To The Django (Bernardo Fontes, Cris Monteiro, Flávio Amieiro, Henrique Bastos, Thiago Garcia)
