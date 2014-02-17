@@ -1,3 +1,15 @@
+# Como adicionar projetos e pessoas:
+
+* Adicione as pessoas no arquivo `data/crew.yml` seguindo o padrão que está lá.
+* Adicione o projeto no arquivo `data/projects.yml` seguindo o padrão que está lá.
+
+# Como rodar o projeto:
+
+* `bundle install`
+* `touch .env`
+* `echo "RACK_ENV=development" > .env`
+* `foreman start`
+
 # Projetos
  - Decouple (Henrique Bastos)
  - Ecofunds (Camila Monteiro, Felipe Cruz, Henrique Bastos, Rômulo Collopy)
